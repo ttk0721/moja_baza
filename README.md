@@ -1,2 +1,7 @@
-# Oto bardzo tajny projekt o, którym nikt nie może wiedzieć nawet sam tomek
-**ttk0721**
+# moja baza
+This is the first project from our team created by **ttk0721**
+
+## Our team
+- ttk0721
+- Wojdi
+- ...
