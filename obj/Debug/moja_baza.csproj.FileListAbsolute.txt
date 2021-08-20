@@ -1,0 +1,11 @@
+C:\Users\ktome\source\repos\moja_baza\bin\Debug\moja_baza.exe.config
+C:\Users\ktome\source\repos\moja_baza\bin\Debug\moja_baza.exe
+C:\Users\ktome\source\repos\moja_baza\bin\Debug\moja_baza.pdb
+C:\Users\ktome\source\repos\moja_baza\obj\Debug\moja_baza.csproj.AssemblyReference.cache
+C:\Users\ktome\source\repos\moja_baza\obj\Debug\moja_baza.Form1.resources
+C:\Users\ktome\source\repos\moja_baza\obj\Debug\moja_baza.Properties.Resources.resources
+C:\Users\ktome\source\repos\moja_baza\obj\Debug\moja_baza.csproj.GenerateResource.cache
+C:\Users\ktome\source\repos\moja_baza\obj\Debug\moja_baza.csproj.CoreCompileInputs.cache
+C:\Users\ktome\source\repos\moja_baza\obj\Debug\moja_baza.exe
+C:\Users\ktome\source\repos\moja_baza\obj\Debug\moja_baza.pdb
+C:\Users\ktome\source\repos\moja_baza\obj\Debug\moja_baza.Form2.resources
