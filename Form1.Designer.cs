@@ -29,6 +29,7 @@ namespace moja_baza
         /// </summary>
         private void InitializeComponent()
         {
+            this.components = new System.ComponentModel.Container(); //SP5IOU
             this.label1 = new System.Windows.Forms.Label();
             this.textBox1 = new System.Windows.Forms.TextBox();
             this.textBox2 = new System.Windows.Forms.TextBox();
@@ -93,6 +94,7 @@ namespace moja_baza
             this.button1.TabIndex = 5;
             this.button1.Text = "zaloguj";
             this.button1.UseVisualStyleBackColor = true;
+            this.button1.Click += new System.EventHandler(this.button1_Click); //SP5IOU Missing this declaration
             // 
             // Form1
             // 
