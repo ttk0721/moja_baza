@@ -12,6 +12,8 @@ namespace moja_baza
 {
     public partial class Form1 : Form
     {
+
+        public int time1 = Program.delay; 
         public Form1()
         {
             InitializeComponent();
