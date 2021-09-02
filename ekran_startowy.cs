@@ -10,11 +10,16 @@ using System.Windows.Forms;
 
 namespace moja_baza
 {
-    public partial class Form2 : Form
+    public partial class ekran_startowy : Form
     {
-        public Form2()
+        public ekran_startowy()
         {
             InitializeComponent();
+
+        }
+        private void button2_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("moja_baza\n Wersja 1.0\n(c) ...");
         }
     }
 }

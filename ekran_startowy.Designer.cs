@@ -1,7 +1,7 @@
 ﻿
 namespace moja_baza
 {
-    partial class Form2
+    partial class ekran_startowy
     {
         /// <summary>
         /// Required designer variable.
@@ -88,7 +88,7 @@ namespace moja_baza
             this.label2.TabIndex = 4;
             this.label2.Text = "co chcesz zrobić?";
             // 
-            // Form2
+            // ekran_startowy
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
@@ -102,8 +102,8 @@ namespace moja_baza
             this.MaximizeBox = false;
             this.MaximumSize = new System.Drawing.Size(816, 489);
             this.MinimumSize = new System.Drawing.Size(816, 489);
-            this.Name = "Form2";
-            this.Text = "Form2";
+            this.Name = "ekran_startowy";
+            this.Text = "Ekran startowy";
             this.ResumeLayout(false);
             this.PerformLayout();
 

@@ -1,7 +1,7 @@
 ﻿
 namespace moja_baza
 {
-    partial class Form1
+    partial class logowanie
     {
         /// <summary>
         /// Wymagana zmienna projektanta.
@@ -29,7 +29,6 @@ namespace moja_baza
         /// </summary>
         private void InitializeComponent()
         {
-            this.components = new System.ComponentModel.Container(); //SP5IOU
             this.label1 = new System.Windows.Forms.Label();
             this.textBox1 = new System.Windows.Forms.TextBox();
             this.textBox2 = new System.Windows.Forms.TextBox();
@@ -94,9 +93,9 @@ namespace moja_baza
             this.button1.TabIndex = 5;
             this.button1.Text = "zaloguj";
             this.button1.UseVisualStyleBackColor = true;
-            this.button1.Click += new System.EventHandler(this.button1_Click); //SP5IOU Missing this declaration
+            this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
-            // Form1
+            // logowanie
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
@@ -110,8 +109,8 @@ namespace moja_baza
             this.MaximizeBox = false;
             this.MaximumSize = new System.Drawing.Size(557, 489);
             this.MinimumSize = new System.Drawing.Size(557, 489);
-            this.Name = "Form1";
-            this.Text = "Form1";
+            this.Name = "logowanie";
+            this.Text = "Logowanie";
             this.ResumeLayout(false);
             this.PerformLayout();
 
