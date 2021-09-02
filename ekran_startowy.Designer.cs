@@ -64,7 +64,7 @@ namespace moja_baza
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(206, 78);
             this.button2.TabIndex = 2;
-            this.button2.Text = "inna opcja";
+            this.button2.Text = "okno informacji";
             this.button2.UseVisualStyleBackColor = true;
             // 
             // button3
