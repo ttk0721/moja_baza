@@ -22,5 +22,14 @@ namespace moja_baza
         {
             MessageBox.Show("moja_baza\n Wersja 1.1.0\n(c) działają przyciski na ekranie głównym");
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            this.SetVisibleCore(false); //SP5IOU Hide login form
+            szybki_notatnik Form2 = new szybki_notatnik();
+            Form2.ShowDialog();
+            this.SetVisibleCore(true); //SP5IOU Show login form again
+                                       //               this.Close(); //SP5IOU Missing closing form command
+        }
     }
 }
