@@ -17,9 +17,10 @@ namespace moja_baza
             InitializeComponent();
 
         }
-        private void button2_Click(object sender, EventArgs e)
+
+        private void button2_Click_1(object sender, EventArgs e)
         {
-            MessageBox.Show("moja_baza\n Wersja 1.0\n(c) ...");
+            MessageBox.Show("moja_baza\n Wersja 1.1.0\n(c) działają przyciski na ekranie głównym");
         }
     }
 }
