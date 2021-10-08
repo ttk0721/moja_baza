@@ -21,7 +21,7 @@ namespace moja_baza
 
         private void button2_Click_1(object sender, EventArgs e)// program dla drugiego przycisku na ekranie starowym. (okienko informacyjne)
         {
-            MessageBox.Show("moja_baza\n Wersja 1.1.1.1\n(c) dodano nazwy");
+            MessageBox.Show("moja_baza\n Wersja 1.2.1.1\n(c) Dodano kalkulator");
         }
 
         private void button1_Click(object sender, EventArgs e)// tu jest miejse na prograam pierwszego przycisku od lewej na ekranie startowym.(prejście do szybkiego notatnika)
