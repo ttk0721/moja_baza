@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Diagnostics;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -34,7 +35,9 @@ namespace moja_baza
 
         private void button3_Click(object sender, EventArgs e)// tu jest miejse na prograam trzeciego przycisku od lewej na ekranie startowym.
         {
-
+            Call_Program.CallKalkulator();
         }
+            
+        
     }
 }
