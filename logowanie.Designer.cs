@@ -29,6 +29,7 @@ namespace moja_baza
         /// </summary>
         private void InitializeComponent()
         {
+            this.components = new System.ComponentModel.Container(); //SP5IOU
             this.label1 = new System.Windows.Forms.Label();
             this.textBox1 = new System.Windows.Forms.TextBox();
             this.textBox2 = new System.Windows.Forms.TextBox();

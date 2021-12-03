@@ -1,0 +1,7 @@
+C:\Users\sp5io\OneDrive\Dokumenty\Visual Studio 2019\source\repos\moja_baza\obj\Release\moja_baza.csproj.SuggestedBindingRedirects.cache
+C:\Users\sp5io\OneDrive\Dokumenty\Visual Studio 2019\source\repos\moja_baza\obj\Release\moja_baza.logowanie.resources
+C:\Users\sp5io\OneDrive\Dokumenty\Visual Studio 2019\source\repos\moja_baza\obj\Release\moja_baza.ekran_startowy.resources
+C:\Users\sp5io\OneDrive\Dokumenty\Visual Studio 2019\source\repos\moja_baza\obj\Release\moja_baza.Properties.Resources.resources
+C:\Users\sp5io\OneDrive\Dokumenty\Visual Studio 2019\source\repos\moja_baza\obj\Release\moja_baza.szybki_notatnik.resources
+C:\Users\sp5io\OneDrive\Dokumenty\Visual Studio 2019\source\repos\moja_baza\obj\Release\moja_baza.csproj.GenerateResource.cache
+C:\Users\sp5io\OneDrive\Dokumenty\Visual Studio 2019\source\repos\moja_baza\obj\Release\moja_baza.csproj.CoreCompileInputs.cache

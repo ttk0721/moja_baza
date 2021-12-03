@@ -19,5 +19,12 @@ C:\Users\sp5io\OneDrive\Dokumenty\Visual Studio 2019\source\repos\moja_baza\bin\
 C:\Users\sp5io\OneDrive\Dokumenty\Visual Studio 2019\source\repos\moja_baza\bin\Debug\moja_baza.pdb
 C:\Users\sp5io\OneDrive\Dokumenty\Visual Studio 2019\source\repos\moja_baza\obj\Debug\moja_baza.exe
 C:\Users\sp5io\OneDrive\Dokumenty\Visual Studio 2019\source\repos\moja_baza\obj\Debug\moja_baza.pdb
+<<<<<<< HEAD
+C:\Users\sp5io\OneDrive\Dokumenty\Visual Studio 2019\source\repos\moja_baza\obj\Debug\moja_baza.csproj.AssemblyReference.cache
+=======
 C:\Users\ktome\source\repos\moja_baza\obj\Debug\moja_baza.logowanie.resources
 C:\Users\ktome\source\repos\moja_baza\obj\Debug\moja_baza.ekran_startowy.resources
+>>>>>>> 41e597cd19a6716850b08ad268a5948d35aa913e
+C:\Users\sp5io\OneDrive\Dokumenty\Visual Studio 2019\source\repos\moja_baza\obj\Debug\moja_baza.csproj.SuggestedBindingRedirects.cache
+C:\Users\sp5io\OneDrive\Dokumenty\Visual Studio 2019\source\repos\moja_baza\obj\Debug\moja_baza.logowanie.resources
+C:\Users\sp5io\OneDrive\Dokumenty\Visual Studio 2019\source\repos\moja_baza\obj\Debug\moja_baza.ekran_startowy.resources
