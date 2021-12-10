@@ -1,7 +1,11 @@
 # moja baza
-This is the first project from our team created by **ttk0721**
+projekt zrobiony przez ekipę **ttk0721**
+Celem projektu jest stwożenie aplikacji dla osób pasjionujących się programowaniem.
+
+
 
 ## Our team
 - ttk0721
 - Wojdi
 - aimeiz
+- wynalazca 112
