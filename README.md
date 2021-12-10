@@ -9,4 +9,5 @@ Celem projektu jest stwożenie aplikacji dla osób pasjionujących się programo
 - Wojdi
 - aimeiz
 - wynalazca112
--Janexo
+- Janexo
+
