@@ -8,4 +8,5 @@ Celem projektu jest stwożenie aplikacji dla osób pasjionujących się programo
 - ttk0721
 - Wojdi
 - aimeiz
-- wynalazca 112
+- wynalazca112
+-Janexo
