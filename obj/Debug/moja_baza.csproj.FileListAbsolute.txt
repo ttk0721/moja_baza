@@ -28,3 +28,29 @@ C:\Users\ktome\source\repos\moja_baza\obj\Debug\moja_baza.ekran_startowy.resourc
 C:\Users\sp5io\OneDrive\Dokumenty\Visual Studio 2019\source\repos\moja_baza\obj\Debug\moja_baza.csproj.SuggestedBindingRedirects.cache
 C:\Users\sp5io\OneDrive\Dokumenty\Visual Studio 2019\source\repos\moja_baza\obj\Debug\moja_baza.logowanie.resources
 C:\Users\sp5io\OneDrive\Dokumenty\Visual Studio 2019\source\repos\moja_baza\obj\Debug\moja_baza.ekran_startowy.resources
+C:\Users\sp5io\source\repos\moja_baza\bin\Debug\moja_baza.exe.config
+C:\Users\sp5io\source\repos\moja_baza\bin\Debug\moja_baza.exe
+C:\Users\sp5io\source\repos\moja_baza\bin\Debug\moja_baza.pdb
+C:\Users\sp5io\source\repos\moja_baza\obj\Debug\moja_baza.csproj.AssemblyReference.cache
+C:\Users\sp5io\source\repos\moja_baza\obj\Debug\moja_baza.csproj.SuggestedBindingRedirects.cache
+C:\Users\sp5io\source\repos\moja_baza\obj\Debug\moja_baza.logowanie.resources
+C:\Users\sp5io\source\repos\moja_baza\obj\Debug\moja_baza.ekran_startowy.resources
+C:\Users\sp5io\source\repos\moja_baza\obj\Debug\moja_baza.Properties.Resources.resources
+C:\Users\sp5io\source\repos\moja_baza\obj\Debug\moja_baza.szybki_notatnik.resources
+C:\Users\sp5io\source\repos\moja_baza\obj\Debug\moja_baza.csproj.GenerateResource.cache
+C:\Users\sp5io\source\repos\moja_baza\obj\Debug\moja_baza.csproj.CoreCompileInputs.cache
+C:\Users\sp5io\source\repos\moja_baza\obj\Debug\moja_baza.exe
+C:\Users\sp5io\source\repos\moja_baza\obj\Debug\moja_baza.pdb
+C:\Users\sp5io\OneDrive\Dokumenty\Visual Studio 2022\source\repos\moja_baza\obj\Debug\moja_baza.csproj.AssemblyReference.cache
+C:\Users\sp5io\OneDrive\Dokumenty\Visual Studio 2022\source\repos\moja_baza\obj\Debug\moja_baza.csproj.SuggestedBindingRedirects.cache
+C:\Users\sp5io\OneDrive\Dokumenty\Visual Studio 2022\source\repos\moja_baza\obj\Debug\moja_baza.logowanie.resources
+C:\Users\sp5io\OneDrive\Dokumenty\Visual Studio 2022\source\repos\moja_baza\obj\Debug\moja_baza.ekran_startowy.resources
+C:\Users\sp5io\OneDrive\Dokumenty\Visual Studio 2022\source\repos\moja_baza\obj\Debug\moja_baza.Properties.Resources.resources
+C:\Users\sp5io\OneDrive\Dokumenty\Visual Studio 2022\source\repos\moja_baza\obj\Debug\moja_baza.szybki_notatnik.resources
+C:\Users\sp5io\OneDrive\Dokumenty\Visual Studio 2022\source\repos\moja_baza\obj\Debug\moja_baza.csproj.GenerateResource.cache
+C:\Users\sp5io\OneDrive\Dokumenty\Visual Studio 2022\source\repos\moja_baza\obj\Debug\moja_baza.csproj.CoreCompileInputs.cache
+C:\Users\sp5io\OneDrive\Dokumenty\Visual Studio 2022\source\repos\moja_baza\obj\Debug\moja_baza.exe
+C:\Users\sp5io\OneDrive\Dokumenty\Visual Studio 2022\source\repos\moja_baza\obj\Debug\moja_baza.pdb
+C:\Users\sp5io\OneDrive\Dokumenty\Visual Studio 2022\source\repos\moja_baza\bin\Debug\moja_baza.exe.config
+C:\Users\sp5io\OneDrive\Dokumenty\Visual Studio 2022\source\repos\moja_baza\bin\Debug\moja_baza.exe
+C:\Users\sp5io\OneDrive\Dokumenty\Visual Studio 2022\source\repos\moja_baza\bin\Debug\moja_baza.pdb

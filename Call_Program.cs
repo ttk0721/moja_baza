@@ -60,6 +60,10 @@ namespace moja_baza
                 Console.WriteLine(result);
             }
         }
+        public static void GoToSite(string url)
+        {
+            System.Diagnostics.Process.Start(url);
+        }
 
     }
 }
