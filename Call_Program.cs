@@ -29,7 +29,9 @@ namespace moja_baza
             {
                 //Jeśli mścieżka do pliku nie jest wpisana, to umieść wywoływany program w tym msamym katalogu co Call_Program.exe
                 //                FileName = @"c:\work\test.exe",
-                FileName = @"C:\\Program Files\\Mozilla Firefox\\firefox.exe",
+//                FileName = @"C:\\Program Files\\Mozilla Firefox\\firefox.exe",
+//Wywołuję msedge, gdyż firefox i inne niektóre przegladarki nie obsługują wirtualnych kamer bez odpowiednich wtyczek. Nie wiem jakie wtyczki są potrzebne do firefow 
+                FileName = @"C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe",
                 Arguments = @"https://meet.jit.si/ciekawe_projekty",
                 UseShellExecute = false,
                 RedirectStandardOutput = true,

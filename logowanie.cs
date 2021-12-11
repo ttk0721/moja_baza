@@ -12,18 +12,42 @@ namespace moja_baza
 {
     public partial class logowanie : Form
     {
-        private const String user = "Tomek"; //SP5IOU
-        private const String password = "Kowalski"; //SP5IOU
-        public logowanie()
+        //       private const String user = "Tomek"; //SP5IOU
+        //       private const String password = "Kowalski"; //SP5IOU
+
+        private bool verifyUser(string user, string password) //Funkcja zwracająca "true" jeśli znaleziona para {Login, Password}
+        {
+            var usersPasword = new Dictionary<string, string> //Lista Loginów i haseł
+          {
+            { "Tomek", "Kowalski" },
+            { "Marcin", "Boboli" },
+            { "Paweł", "Włodarczyk" },
+            { "Frańciszek", "Wojdak"},
+            { "Franek", "Raczkowski" },
+            { "Stanisław", "Puławski" },
+            { "Tomasz", "Kowalski" },
+            { "Jan","Konopka" }
+            //Dodawaj użytkowników w formacie ,{"Login", "Password"} jak powyżej. Za ostatnim niema przecinka. Użytkownicy nie mogą się powtarzać. Hasła mogą.
+          };
+            foreach (KeyValuePair<string,string> pair in usersPasword)
+            {
+               if (pair.Key == user && pair.Value == password)                
+                 return true;
+            }
+            return (false);
+        }
+
+        public logowanie() //Funkcja wywołująca następne okno jeśli pomyślne logowanie
         {
             InitializeComponent();
-        } //SP5IOU Missing } This generated compilation errors
+        } 
             private void button1_Click(object sender, EventArgs e)
             {
             //               timer1.Start(); //SP5IOU Missing Timer1 component
-            if (textBox1.Text == user && textBox2.Text == password) //SP5IOU
-            {
-                this.SetVisibleCore(false); //SP5IOU Hide login form
+ //           if (textBox1.Text == user && textBox2.Text == password) //SP5IOU
+                if (verifyUser(textBox1.Text,textBox2.Text)) //SP5IOU Wywołanie funkcji odszukującej Login i password
+                {
+                    this.SetVisibleCore(false); //SP5IOU Hide login form
                 textBox1.Text = ""; //SP5IOU User text clean
                 textBox2.Text = ""; //SP5IOU Password text clean
                 ekran_startowy Form2 = new ekran_startowy();
@@ -50,6 +74,7 @@ namespace moja_baza
   //              if (Program.interrupt)
                     Application.Exit();  //Close application on click window close
             }
-        }
+ 
+    }
     //    }  //SP5IOU This } is not needed anymore This generated compilation errors
 }

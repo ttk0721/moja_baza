@@ -40,8 +40,8 @@ namespace moja_baza
 
         private void button4_Click(object sender, EventArgs e)
         {
-            //            Call_Program.CallJitsi();
-            Call_Program.GoToSite("https://meet.jit.si/ciekawe_projekty");
+            Call_Program.CallJitsi();
+            //Call_Program.GoToSite("https://meet.jit.si/ciekawe_projekty");
         }
     }
 }
