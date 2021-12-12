@@ -31,9 +31,9 @@ namespace moja_baza
                 //                FileName = @"c:\work\test.exe",
 //                FileName = @"C:\\Program Files\\Mozilla Firefox\\firefox.exe",
 //Wywołuję msedge, gdyż firefox i inne niektóre przegladarki nie obsługują wirtualnych kamer bez odpowiednich wtyczek. Nie wiem jakie wtyczki są potrzebne do firefow 
-                FileName = @"C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe",
- //               Arguments = @"https://meet.jit.si/ciekawe_projekty",
-                Arguments = @"C:\Baza\index.html",
+                FileName = @"C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe", 
+                Arguments = @" --new-window --app=https://meet.jit.si/ciekawe_projekty",
+//              Arguments = @"C:\Baza\index.html",
                 UseShellExecute = false,
                 RedirectStandardOutput = true,
             };
